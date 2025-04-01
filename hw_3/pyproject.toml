@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "matrix_generator_evgenfosgen"
+version = "0.1.0"
+description = "A simple matrix library with basic operations and file export"
+authors = [{ name = "Evgenij", email = "123@email.com" }]
+dependencies = ["numpy"]
