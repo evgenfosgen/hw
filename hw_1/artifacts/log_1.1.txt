@@ -1,0 +1,15 @@
+MacBook-Pro-Evgenij:Питон evgenij$ python3 1.1.py test.txt
+1       Привет
+2
+3       Мир
+4       Python
+5       Женя
+MacBook-Pro-Evgenij:Питон evgenij$ python3 1.1.py
+ручной
+ввод
+
+работает
+1D      ручной
+2       ввод
+3
+4       работает
