@@ -1,0 +1,10 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "parallel"
+version = "0.1.0"
+description = "Примеры параллельных вычислений"
+authors = [{ name = "Evgenij", email = "123@email.com" }]
+dependencies = []
